@@ -21,3 +21,41 @@ https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="TeleMaroc.ma@SD" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_Tele_Maroc_900x800_ffdee4d2e4.png" group-title="Culture;Entertainment;News",Tele Maroc (1080p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
+
+
+#ENTM3U
+#EXTINE: --, A- AouLa HD
+12
+nttp://00004-glize.com: 2052/hassan/12456893aa/296
+#EXTINE: --, Laayoune HD
+12
+http://00004.giize.com:2052/hassan/12456893aa/297
+#EXTINE: -1, Arryadia HD
+http://00004.giize.com:2052/hassan/12456893aa/298
+#EXTINE:-1,AL Maghribia HD
+T2
+http://00004.giize.com:2052/hassan/12456893aa/299
+#EXTINE:-1, Aflam HD
+12
+http://00004.giize.com:2052/hassan/12456893aa/301
+#EXTINE: -1, Tamazight HD T2
+http://00004.giize.com:2052/hassan/12456893aa/302
+#EXTINE:-1, Arryadia
+ADL
+http://00004.giize.com:2052/hassan/12456893aa/303
+#EXTINE :-1, 2M NATIONAL
+http://00004.giize.com:2052/hassan/12456893aa/305
+#EXTINE: -1, beIN SPORTS 1
+HD
+http://00004.giize.com:2052/hassan/12456893aa/373
+#EXTINE: -1, beIN SPORIS 2
+HD
+http://00004.giize.com:2052/hassan/12456893aa/374
+#EXTINE:-1, beIN SPORTS 3
+HD
+http://00004.giize.com:2052/hassan/12456893aa/375
+#EXTINF:-1, beIN SPORTS
+4
+HD
+http://00004.giize.com:2052/hassan/12456893aa/376
+#EXTINE: -1, Assadissa HD
